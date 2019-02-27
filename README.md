@@ -1,6 +1,8 @@
 # mpvue-template
 
+> 自定义的mpvue + mock模板
 > forked from [mpvue/mpvue-quickstart](https://github.com/mpvue/mpvue-quickstart)修改而来。
+
 
 ## 基本用法
 ``` bash
